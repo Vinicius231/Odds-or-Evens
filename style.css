@@ -1,0 +1,25 @@
+body{
+    background: #1b1e23;
+}
+section{
+    background: white;
+    width: 700px;
+    height: auto;
+    margin: auto;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+h1{
+    text-align: center;
+    font: normal 30pt Arial;
+    
+}
+div#button{
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.637);
+}
